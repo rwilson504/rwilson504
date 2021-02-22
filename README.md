@@ -8,6 +8,7 @@ I am a Power Platform developer and passionate advocate of low code solutions to
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwilson504)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile views](https://gpvc.arturio.dev/rwilson504)
 <!--
 **rwilson504/rwilson504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
