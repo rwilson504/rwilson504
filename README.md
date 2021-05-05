@@ -6,11 +6,11 @@ I am a Power Platform developer and passionate advocate of low code solutions to
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Power Automate Custom Connectors - Import Postman v2 Collection](http://feedproxy.google.com/~r/richardawilson/MqOq/~3/vDs1MEXCf6E/power-automate-custom-connectors-import.html)
 - [Horizontally Scroll A Large Power Apps Gallery](http://feedproxy.google.com/~r/richardawilson/MqOq/~3/gByZSxGSM3c/horizontally-scroll-large-power-apps.html)
 - [Install/Configure Power Apps Mobile for U.S. Government and DoD User](http://feedproxy.google.com/~r/richardawilson/MqOq/~3/Sbl157ScIOY/installconfigure-power-apps-mobile-for.html)
 - [WebApi - Execute Bound Function (RetrievePrincipalAccess) in PCF](http://feedproxy.google.com/~r/richardawilson/MqOq/~3/hCVY__-LTb0/webapi-execute-bound-function.html)
 - [PowerApps Portal - Users Can See More Than Their Assigned Web Roles Allow](http://feedproxy.google.com/~r/richardawilson/MqOq/~3/wna2G--TcFQ/powerapps-portal-users-can-see-more.html)
-- [Rotational Image PCF Component for Canvas Apps](http://feedproxy.google.com/~r/richardawilson/MqOq/~3/7_Y0RfXAExc/rotational-image-pcf-component-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rwilson504&show_icons=true)  
