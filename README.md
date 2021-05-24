@@ -6,11 +6,11 @@ I am a Power Platform developer and passionate advocate of low code solutions to
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Error Connecting to Raspberry Pi in VS Code After Reset](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/uC6m48KrRLI/error-connecting-to-raspberry-pi-in-vs.html)
 - [Team Member License Enforcement in GCC](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/-NZYm3TYq9s/team-member-license-enforcement-in-gcc_18.html)
 - [Power Automate Custom Connectors - Import Postman v2 Collection](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/vDs1MEXCf6E/power-automate-custom-connectors-import.html)
 - [Horizontally Scroll A Large Power Apps Gallery](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/gByZSxGSM3c/horizontally-scroll-large-power-apps.html)
 - [Install/Configure Power Apps Mobile for U.S. Government and DoD User](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/Sbl157ScIOY/installconfigure-power-apps-mobile-for.html)
-- [WebApi - Execute Bound Function (RetrievePrincipalAccess) in PCF](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/hCVY__-LTb0/webapi-execute-bound-function.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rwilson504&show_icons=true)  
