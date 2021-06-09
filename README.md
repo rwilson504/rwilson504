@@ -6,11 +6,11 @@ I am a Power Platform developer and passionate advocate of low code solutions to
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom Process Action vs Custom API in Dataverse](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/3NyHZBGcGi8/custom-process-action-vs-custom-api-in.html)
+- [Calling Dataverse Web API in PowerShell using Client Credentials](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/TVajsdMfYmk/calling-dataverse-web-api-in-powershell.html)
 - [Raspberry Pi Pinout Terminal Command](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/gJ2zTVt59nQ/raspberry-pi-pinout-terminal-command.html)
 - [.NET Core on Raspberry Pi - Access to the path is denied](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/K0-ZOlSP1OM/net-core-on-raspberry-pi-access-tot-he.html)
 - [Error Connecting to Raspberry Pi in VS Code After Reset](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/uC6m48KrRLI/error-connecting-to-raspberry-pi-in-vs.html)
-- [Team Member License Enforcement in GCC](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/-NZYm3TYq9s/team-member-license-enforcement-in-gcc_18.html)
-- [Power Automate Custom Connectors - Import Postman v2 Collection](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/vDs1MEXCf6E/power-automate-custom-connectors-import.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rwilson504&show_icons=true)  
