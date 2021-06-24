@@ -6,11 +6,11 @@ I am a Power Platform developer and passionate advocate of low code solutions to
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Enable the Export to PDF Button Ribbon Button](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/gGGbiixILLg/enable-export-to-pdf-button-ribbon.html)
 - [Open Model Apps Url Using Unique Name](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/8yuO3BUFS0E/open-model-apps-url-using-unique-name.html)
 - [Return Error in Power Automate When Using Try/Catch Scopes](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/Bnk5Wv83PLI/return-error-in-power-automate-when.html)
 - [Custom Process Action vs Custom API in Dataverse](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/3NyHZBGcGi8/custom-process-action-vs-custom-api-in.html)
 - [Calling Dataverse Web API in PowerShell using Client Credentials](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/TVajsdMfYmk/calling-dataverse-web-api-in-powershell.html)
-- [Raspberry Pi Pinout Terminal Command](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/gJ2zTVt59nQ/raspberry-pi-pinout-terminal-command.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rwilson504&show_icons=true)  
