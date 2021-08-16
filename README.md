@@ -6,11 +6,11 @@ I am a Power Platform developer and passionate advocate of low code solutions to
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Issue Connecting Through Remote Desktop Gateway](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/7yqpIaKmEUU/issue-connecting-through-remote-desktop.html)
 - [Power Automate Desktop Example - Downloading Image From Email To Network Drive](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/gttur8nQejU/power-automate-desktop-example.html)
 - [Model App Access Checker for Dataverse](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/LPlLjfuyvcE/model-app-access-checker-for-dataverse.html)
 - [Enable the Export to PDF Ribbon Button](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/gGGbiixILLg/enable-export-to-pdf-button-ribbon.html)
 - [Open Model Apps Url Using Unique Name](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/8yuO3BUFS0E/open-model-apps-url-using-unique-name.html)
-- [Return Error in Power Automate When Using Try/Catch Scopes](http://feedproxy.google.com/~r/richardawilson/mqoq/~3/Bnk5Wv83PLI/return-error-in-power-automate-when.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rwilson504&show_icons=true)  
