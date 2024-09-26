@@ -6,11 +6,11 @@ I am a Power Platform developer and passionate advocate of low code solutions to
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create SharePoint Items with Power Automate Desktop](http://www.richardawilson.com/2022/02/how-to-create-sharepoint-items-with.html)
-- [Power Apps Portal - Configure Azure AD Provider in Azure B2C](http://www.richardawilson.com/2022/01/power-apps-portal-configure-azure-ad.html)
-- [Issue Connecting Through Remote Desktop Gateway](http://www.richardawilson.com/2021/08/issue-connecting-through-remote-desktop.html)
-- [Power Automate Desktop Example - Downloading Image From Email To Network Drive](http://www.richardawilson.com/2021/06/power-automate-desktop-example.html)
-- [Model App Access Checker for Dataverse](http://www.richardawilson.com/2021/06/model-app-access-checker-for-dataverse.html)
+- [Custom Auto Number in Dataverse with Fiscal Year-Based Incrementing Using Plugin Code](http://www.richardawilson.com/2024/08/custom-auto-number-in-dataverse-with.html)
+- [Connecting the Paconn CLI Tool to GCC, GCCH, and DoD Environments for Power Platform Connectors](http://www.richardawilson.com/2024/08/connecting-paconn-cli-tool-to-gcc-gcch.html)
+- [Overcoming OpenAPI 2.0 `multi` CollectionFormat Challenges in Power Automate Custom Connectors](http://www.richardawilson.com/2024/06/overcoming-openapi-20-multi.html)
+- [Installing PowerShell Modules in Firewalled and Air-Gapped Systems](http://www.richardawilson.com/2024/06/installing-powershell-modules-in.html)
+- [Harnessing Host Form Data with PCF Controls in Model-Driven Applications](http://www.richardawilson.com/2024/04/pcf-access-parent-data-model-app.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rwilson504&show_icons=true)  
