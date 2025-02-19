@@ -6,11 +6,11 @@ I'm a Power Platform developer and passionate advocate of low-code solutions to 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Web Templates as Custom Components in Power Pages: A Classification Banner Example](http://www.richardawilson.com/2025/02/using-web-templates-as-custom.html)
 - [From Messy to Manageable: Cleanly Load Dataverse Tables in Power BI](http://www.richardawilson.com/2024/11/from-messy-to-manageable-cleanly-load.html)
 - [Bypass Power Apps Consent Prompts Using PowerShell](http://www.richardawilson.com/2024/10/bypass-power-apps-consent-prompts-using.html)
 - [Custom Auto Number in Dataverse with Fiscal Year-Based Incrementing Using Plugin Code](http://www.richardawilson.com/2024/08/custom-auto-number-in-dataverse-with.html)
 - [Connecting the Paconn CLI Tool to GCC, GCCH, and DoD Environments for Power Platform Connectors](http://www.richardawilson.com/2024/08/connecting-paconn-cli-tool-to-gcc-gcch.html)
-- [Overcoming OpenAPI 2.0 `multi` CollectionFormat Challenges in Power Automate Custom Connectors](http://www.richardawilson.com/2024/06/overcoming-openapi-20-multi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rwilson504&show_icons=true)  
