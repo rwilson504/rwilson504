@@ -6,11 +6,11 @@ I'm a Power Platform developer and passionate advocate of low-code solutions to 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Azure Storage Account IP Restrictions with Power Automate](http://www.richardawilson.com/2025/03/automating-azure-storage-account-ip.html)
 - [FBI Top Ten Power Platform Connector](http://www.richardawilson.com/2025/02/fbi-top-ten-power-platform-connector.html)
 - [How to Show Notes &lpar;Annotations&rpar; on a Model-Driven App Dashboard](http://www.richardawilson.com/2025/02/how-to-show-notes-annotations-on-model.html)
 - [Using Web Templates as Custom Components in Power Pages: A Classification Banner Example](http://www.richardawilson.com/2025/02/using-web-templates-as-custom.html)
 - [From Messy to Manageable: Cleanly Load Dataverse Tables in Power BI](http://www.richardawilson.com/2024/11/from-messy-to-manageable-cleanly-load.html)
-- [Bypass Power Apps Consent Prompts Using PowerShell](http://www.richardawilson.com/2024/10/bypass-power-apps-consent-prompts-using.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rwilson504&show_icons=true)  
