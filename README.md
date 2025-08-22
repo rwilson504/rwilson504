@@ -6,11 +6,11 @@ I'm a Power Platform developer and passionate advocate of low-code solutions to 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Locking Down a Logic App &lpar;Consumption&rpar; with OAuth for Calls from Dataverse Plug-ins using Managed Identity](http://www.richardawilson.com/2025/08/locking-down-logic-app-consumption-with.html)
 - [Passing Pipeline Trigger Time to Data Flows in Azure Data Factory: Use Strings, Not Timestamps!](http://www.richardawilson.com/2025/08/passing-pipeline-trigger-time-to-data.html)
 - [Power Query: Driftless Merges using Table.Buffer](http://www.richardawilson.com/2025/08/power-query-driftless-merges-using.html)
 - [How to View DLP Policies Applied to a Power Platform Environment](http://www.richardawilson.com/2025/05/how-to-view-dlp-policies-applied-to.html)
 - [Harnessing Host Form Data with PCF Controls in Model-Driven Applications](http://www.richardawilson.com/2024/04/pcf-access-parent-data-model-app.html)
-- [Copy Hidden Power Automate Expressions](http://www.richardawilson.com/2025/04/copy-hidden-power-automate-expressions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rwilson504&show_icons=true)  
