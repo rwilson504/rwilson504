@@ -4,7 +4,7 @@ I'm a Power Platform developer and passionate advocate of low-code solutions to 
 # Contact
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/rickawilson/)  [<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/PowerAppsRAW)  [<img src='https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCdI64e7AJNaLF-b9uCGXLSQ)  [<img src='https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white' alt='website' height='40'>](http://feeds.feedburner.com/richardawilson/MqOq)
 
-<a href="[https://www.buymeacoffee.com/roniemartinez](https://buymeacoffee.com/richardawilson)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://buymeacoffee.com/richardawilson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 # Blog posts
