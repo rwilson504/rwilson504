@@ -10,8 +10,8 @@ I'm a Power Platform developer and passionate advocate of low-code solutions to 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Connecting OpenClaw to GitHub Copilot &lpar;OAuth, no API key&rpar;](https://www.richardawilson.com/blog/openclaw-github-copilot-oauth/)
-- [Making Sure Your Synology NAS and OpenClaw Container Can Actually Talk](https://www.richardawilson.com/blog/synology-openclaw-container-networking/)
 - [Multi-User Self-Hosted AI on Synology Chat with OpenClaw](https://www.richardawilson.com/blog/synology-chat-multi-user-openclaw/)
+- [Making Sure Your Synology NAS and OpenClaw Container Can Actually Talk](https://www.richardawilson.com/blog/synology-openclaw-container-networking/)
 - [Set Your Preferred Solution for the Dataverse MCP](https://www.richardawilson.com/blog/set-your-preferred-solution-for-01187880513/)
 - [Fixing PAC CLI “non-recoverable error” in GCC High and DoD by enabling telemetry](https://www.richardawilson.com/blog/fixing-pac-cli-non-recoverable-error-in/)
 <!-- BLOG-POST-LIST:END -->
