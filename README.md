@@ -9,11 +9,11 @@ I'm a Power Platform developer and passionate advocate of low-code solutions to 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing KingswaySoft&#39;s &quot;Cannot upload file directly to root&quot; Azure Blob error](https://www.richardawilson.com/blog/kingswaysoft-azure-blob-cannot-upload-to-root/)
 - [Debugging SSIS Data Flows with the Data Viewer](https://www.richardawilson.com/blog/debugging-ssis-data-flows-with-the-data-viewer/)
 - [Connecting OpenClaw to GitHub Copilot &lpar;OAuth, no API key&rpar;](https://www.richardawilson.com/blog/openclaw-github-copilot-oauth/)
 - [Multi-User Self-Hosted AI on Synology Chat with OpenClaw](https://www.richardawilson.com/blog/synology-chat-multi-user-openclaw/)
 - [Making Sure Your Synology NAS and OpenClaw Container Can Actually Talk](https://www.richardawilson.com/blog/synology-openclaw-container-networking/)
-- [Set Your Preferred Solution for the Dataverse MCP](https://www.richardawilson.com/blog/set-your-preferred-solution-for-01187880513/)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rwilson504&show_icons=true)  
